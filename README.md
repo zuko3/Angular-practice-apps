@@ -7,3 +7,9 @@ App has been hosted in heroku:   https://ang-recipe.herokuapp.com/
 <br>1. Download Angular5-recipeBook.zip extract it.
 <br>2. Naviagate inside folder execute command npm run install to install all dependency after installing all  dependency execute ng serve in terminal.
 <br>3. visit http://localhost:4200/ to see runing app.
+
+# 2. Angular animation-part1.zip
+This exercise uses Angular animation package for implemnting animation in angular app.
+<br>[ steps to execute ] :
+<br> Refer above steps.
+
