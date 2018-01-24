@@ -13,3 +13,6 @@ This exercise uses Angular animation package for implemnting animation in angula
 <br>[ steps to execute ] :
 <br> Refer above steps.
 
+# 3. Custom Filter [Countries list filter app with Progress bar]
+This exercise shows the uses custom filter. 
+
