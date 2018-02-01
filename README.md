@@ -16,3 +16,6 @@ This exercise uses Angular animation package for implemnting animation in angula
 # 3. Custom Filter [Countries list filter app with Progress bar]
 This exercise shows the uses custom filter. 
 
+# 4. Material Design lite:
+Sample implementaion for the material design lite in web.
+
