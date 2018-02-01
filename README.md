@@ -17,7 +17,6 @@ This exercise uses Angular animation package for implemnting animation in angula
 This exercise shows the uses custom filter. 
 
 # 4. Material Design lite:
-Sample implementaion for the material design lite in web.
-![ScreenShot](https://github.com/zuko3/Angular-practice-apps/tree/master/Material-lite_design/cover.png)<br/>
-![ScreenShot](https://github.com/zuko3/Angular-practice-apps/tree/master/Material-lite_design/cover2.png)
+Sample implementaion for the material design lite in web.<br/>
+![ScreenShot](./Material-lite_design/cover.png) &nbsp;&nbsp;![ScreenShot](./Material-lite_design/cover2.png)
 
