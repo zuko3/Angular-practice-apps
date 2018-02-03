@@ -1,0 +1,115 @@
+.minilogo{
+  width: 45px;
+}
+
+@media (max-width: 400px){
+	.main-app .app-name{
+		font-size: 20px;
+		font-weight: 300;
+		color: white;
+	}
+}
+
+.main-app .app-name {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+}
+
+/*
+.mdl-layout__header,.mdl-layout__tab-bar,.mdl-layout__tab-bar-button{
+	background-color:#FFA500 !important;
+}
+*/
+
+.mdl-layout__drawer{
+	    background:white;
+}
+
+.mdl-list{
+	padding:0 0 0 0 !important;
+}
+
+.mdl-list__item{
+	padding:8px !important;
+}
+
+.mdl-list .first{
+	background:rgb(0,150,136) !important;
+	min-height: 50px !important;
+	padding-left:0px !important;
+	color:white;
+}
+
+
+.back_Arrow{
+	font-size:40px !important;
+	
+}
+
+
+.mdl-layout__drawer.is-visible{
+		width:300px !important;
+}
+
+.marginLeft25{
+	margin-left:25px !important;
+}
+
+.search {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+	background-image: url('search.svg');
+	width: 100%;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+.searchRow{
+	padding: 0 20px 0 20px !important;
+}
+
+
+.banner{
+	width:100% !important;
+	height:auto !important;
+}
+
+.bannerImg{
+	width: 100% !important;
+    /*max-height: 300px !important*/
+}
+
+
+.mdl-card{
+	width: 95% !important;
+    margin:3% 0 0 3%!important;
+}
+
+.mdl-card__media {
+    background-color: rgb(0,150,136) !important;
+	/*background-color:transparent !important;*/
+}
+
+.product_overview_landing{
+	height:100px !important;
+	width: 200px !important;
+	border: 0px !important;
+	padding:20px !important;
+}
+
+.product_overview_caption{
+	font-size: 18px !important;
+    color: white !important;
+	font-weight: bold !important;
+
+}
+
