@@ -1,0 +1,6 @@
+<div>
+	<form (ngSubmit)="onSubmitForm(f)" #f="ngForm">
+		<input (input)="changename($event)" required type="text" ngModel name="user"  id="user"/>
+		<button [disabled]="!f.valid" type="submit">search Useer</button>
+	</form>
+</div>

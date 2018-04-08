@@ -1,0 +1,20 @@
+<table>
+	<tr>
+		<td valign="top">
+			<h3 *ngIf="loading">Loading data ...</h3>
+				<h3 *ngIf="error">Sorry Error occured !</h3>
+				<div *ngIf="!loading && !error && listUsers">
+					<div (click)="showDetails(user)"  *ngFor="let user of listUsers">
+						<img style="width:30px;height:30px;" src="{{user.avatar_url}}"/>&nbsp;&nbsp;<u>{{user.login}}</u>
+					</div>
+				</div>
+				<p *ngIf="!loading && !error && !listUsers">
+					Search user and hit submit button to search a user!
+				</p>
+		
+		</td>
+		<td valign="top">
+			<app-users-detail [userData]="userDeatils" *ngIf="userDeatils"></app-users-detail>
+		</td>
+	</tr>
+</table>
