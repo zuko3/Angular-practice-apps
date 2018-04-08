@@ -20,3 +20,5 @@ This exercise shows the uses custom filter.
 Sample implementaion for the material design lite in web.<br/>
 ![ScreenShot](./Material-lite_design/cover.png) &nbsp;&nbsp;![ScreenShot](./Material-lite_design/cover2.png)
 
+# 5. Github search:
+GitHub_search angular Implementation, Cross component communication.
